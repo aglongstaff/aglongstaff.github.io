@@ -1,0 +1,24 @@
+body {
+  background-size: cover;
+  text-align:center;
+  background: url("file:///C:/Users/Alex/Desktop/aglongstaff.github.io/aglongstaff.github.io/unit_3.0/Images/oasis.jpg");
+  background-color: #000000;
+}
+
+h1 {
+	color: black;
+	text-align:center;
+	font-family: Helvetica;
+	font-size: 200px;
+}
+
+  hr {
+    width: 200px;
+  }
+
+p {
+	color: red;
+	text-align:center;
+	font-family: Helvetica;
+	font-size: 150px;
+}
